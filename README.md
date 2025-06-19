@@ -23,8 +23,6 @@ Using structured outputs helps in:
     
 *   Good for **type checking** and **validating data**.
     
-*   pythonCopyEditmodel.with\_structured\_output(Review)
-    
 
 **Note:** Some HuggingFace models (especially chat models) may not support this method properly.
 
